@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/labwebview/static/css/main.d1b05096.chunk.css",
-    "main.js": "/labwebview/static/js/main.6a24049c.chunk.js",
-    "main.js.map": "/labwebview/static/js/main.6a24049c.chunk.js.map",
+    "main.js": "/labwebview/static/js/main.053c2126.chunk.js",
+    "main.js.map": "/labwebview/static/js/main.053c2126.chunk.js.map",
     "runtime-main.js": "/labwebview/static/js/runtime-main.d9b86f8b.js",
     "runtime-main.js.map": "/labwebview/static/js/runtime-main.d9b86f8b.js.map",
     "static/js/2.109a5303.chunk.js": "/labwebview/static/js/2.109a5303.chunk.js",
     "static/js/2.109a5303.chunk.js.map": "/labwebview/static/js/2.109a5303.chunk.js.map",
     "index.html": "/labwebview/index.html",
-    "precache-manifest.9ec7931497581a578c33765d11e1ed08.js": "/labwebview/precache-manifest.9ec7931497581a578c33765d11e1ed08.js",
+    "precache-manifest.0d757365ebf6467228e92d8d1dc8e685.js": "/labwebview/precache-manifest.0d757365ebf6467228e92d8d1dc8e685.js",
     "service-worker.js": "/labwebview/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/labwebview/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.109a5303.chunk.js.LICENSE.txt": "/labwebview/static/js/2.109a5303.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d9b86f8b.js",
     "static/js/2.109a5303.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.6a24049c.chunk.js"
+    "static/js/main.053c2126.chunk.js"
   ]
 }

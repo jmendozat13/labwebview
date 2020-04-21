@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de22167257e48121772c0eb8afcdf4ef",
+    "revision": "0bb52eb9b4705945ae9dcf17dcaf2d15",
     "url": "/labwebview/index.html"
   },
   {
-    "revision": "5940c8827e38bd5c6a06",
+    "revision": "05e7b31e442db3ced6a3",
     "url": "/labwebview/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labwebview/static/js/2.109a5303.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5940c8827e38bd5c6a06",
-    "url": "/labwebview/static/js/main.6a24049c.chunk.js"
+    "revision": "05e7b31e442db3ced6a3",
+    "url": "/labwebview/static/js/main.053c2126.chunk.js"
   },
   {
     "revision": "ae8c0db05cb288b9231d",
